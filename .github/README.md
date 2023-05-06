@@ -1,14 +1,14 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ 」──
+    ──「 ᴄʀᴇᴇᴘʏ ✘ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/1f070ea3147e2a3ef44e4.jpg">
+  <img src="https://graph.org/file/e1720309d6dc21da3cfcb.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ](https://t.me/FallenMusicBot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ᴄʀᴇᴇᴘʏ ✘ ᴍᴜsɪᴄ ](https://t.me/CREEPY_MUSIC_BOT)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
@@ -23,7 +23,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://te.legra.ph/file/8a38f66826c2ea5e97724.jpg">
+  <img src="https://graph.org/file/3a112fe5db4eea0aa3063.jpg">
 </p>
 
 <p align="center">
@@ -79,10 +79,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/creepy_world_hell"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/OLD_BUDDIES"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -91,7 +91,7 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/FallenMusic) </b>
+- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)  ғᴏʀ  [ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/FallenMusic) </b>
 - <b>[ᴅᴀɴ](https://github.com/delivrance)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram) </b>
 - <b>[ʟᴀᴋʏ](https://github.com/Laky-64)  ғᴏʀ  [ᴘʏ-ᴛɢᴄᴀʟʟs](https://github.com/pytgcalls/pytgcalls) </b>
 
