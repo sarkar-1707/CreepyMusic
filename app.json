@@ -1,7 +1,7 @@
 {
-    "name": "ғᴀʟʟᴇɴ ダ ᴍᴜsɪᴄ",
+    "name": "𝐂𝐑𝐄𝐄𝐏𝐘 ✘ 𝐁𝐎𝐓",
     "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/6f99c49bdb4679acad717.jpg",
+    "logo": "https://graph.org/file/e1720309d6dc21da3cfcb.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
-        "value": "https://t.me/DevilsHeavenMF",
+        "value": "https://t.me/creepy_world_hell",
         "required": false
       }
     },
